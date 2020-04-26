@@ -1,0 +1,223 @@
+COUNTRY,TOTAL CASES,CODE
+Afghanistan,1463,AFG
+Albania,712,ALB
+Algeria,3256,DZA
+American Samoa,0,ASM
+Andorra,731,AND
+Angola,25,AGO
+Anguilla,3,AIA
+Antigua and Barbuda,24,ATG
+Argentina,3607,ARG
+Armenia,1677,ARM
+Aruba,100,ABW
+Australia,6695,AUS
+Austria,15148,AUT
+Azerbaijan,1617,AZE
+"Bahamas, The",73,BHM
+Bahrain,2588,BHR
+Bangladesh,4998,BGD
+Barbados,77,BRB
+Belarus,9590,BLR
+Belgium,45325,BEL
+Belize,18,BLZ
+Benin,54,BEN
+Bermuda,99,BMU
+Bhutan,7,BTN
+Bolivia,807,BOL
+Bosnia and Herzegovina,1486,BIH
+Botswana,22,BWA
+Brazil,55224,BRA
+British Virgin Islands,6,VGB
+Brunei,138,BRN
+Bulgaria,1247,BGR
+Burkina Faso,629,BFA
+Burma,0,MMR
+Burundi,11,BDI
+Cabo Verde,90,CPV
+Cambodia,122,KHM
+Cameroon,1518,CMR
+Canada,44364,CAN
+Cayman Islands,70,CYM
+Central African Republic,0,CAF
+Chad,46,TCD
+Chile,12858,CHL
+China,82816,CHN
+Colombia,4881,COL
+Comoros,0,COM
+"Congo, Democratic Republic of the",200,COD
+"Congo, Republic of the",200,COG
+Cook Islands,0,COK
+Costa Rica,687,CRI
+Cote d'Ivoire,16,CIV
+Croatia,2016,HRV
+Cuba,1337,CUB
+Curacao,16,CUW
+Cyprus,810,CYP
+Czech Republic,7333,CZE
+Denmark,8445,DNK
+Djibouti,1008,DJI
+Dominica,16,DMA
+Dominican Republic,5926,DOM
+Ecuador,22719,ECU
+Egypt,4319,EGY
+El Salvador,274,SLV
+Equatorial Guinea,214,GNQ
+Eritrea,39,ERI
+Estonia,1635,EST
+Ethiopia,122,ETH
+Falkland Islands (Islas Malvinas),13,FLK
+Faroe Islands,187,FRO
+Fiji,18,FJI
+Finland,4475,FIN
+France,161488,FRA
+French Polynesia,57,PYF
+Gabon,172,GAB
+"Gambia, The",10,GMB
+Georgia,456,GEO
+Germany,155418,DEU
+Ghana,1279,GHA
+Gibraltar,133,GIB
+Greece,2506,GRC
+Greenland,11,GRL
+Grenada,15,GRD
+Guam,0,GUM
+Guatemala,430,GTM
+Guernsey,0,GGY
+Guinea-Bissau,52,GNB
+Guinea,954,GIN
+Guyana,73,GUY
+Haiti,72,HTI
+Honduras,591,HND
+Hong Kong,1038,HKG
+Hungary,2443,HUN
+Iceland,1790,ISL
+India,24942,IND
+Indonesia,8607,IDN
+Iran,89328,IRN
+Iraq,1763,IRQ
+Ireland,18561,IRL
+Isle of Man,308,IMN
+Israel,15148,ISR
+Italy,195351,ITA
+Jamaica,288,JAM
+Japan,12829,JPN
+Jersey,0,JEY
+Jordan,444,JOR
+Kazakhstan,2601,KAZ
+Kenya,343,KEN
+Kiribati,0,KIR
+"Korea, North",0,KOR
+"Korea, South",10718,PRK
+Kosovo,0,KSV
+Kuwait,2892,KWT
+Kyrgyzstan,665,KGZ
+Laos,19,LAO
+Latvia,804,LVA
+Lebanon,704,LBN
+Lesotho,0,LSO
+Liberia,120,LBR
+Libya,61,LBY
+Liechtenstein,81,LIE
+Lithuania,1426,LTU
+Luxembourg,3711,LUX
+Macau,45,MAC
+Macedonia,0,MKD
+Madagascar,123,MDG
+Malawi,33,MWI
+Malaysia,5742,MYS
+Maldives,141,MDV
+Mali,370,MLI
+Malta,448,MLT
+Marshall Islands,0,MHL
+Mauritania,171,MRT
+Mauritius,331,MUS
+Mexico,12872,MEX
+"Micronesia, Federated States of",0,FSM
+Moldova,3304,MDA
+Monaco,94,MCO
+Mongolia,37,MNG
+Montenegro,320,MNE
+Morocco,3897,MAR
+Mozambique,70,MOZ
+Namibia,16,NAM
+Nepal,49,NPL
+Netherlands,37190,NLD
+New Caledonia,18,NCL
+New Zealand,1461,NZL
+Nicaragua,12,NIC
+Nigeria,1095,NGA
+Niger,681,NER
+Niue,0,NIU
+Northern Mariana Islands,0,MNP
+Norway,7493,NOR
+Oman,1905,OMN
+Pakistan,12644,PAK
+Palau,0,PLW
+Panama,5338,PAN
+Papua New Guinea,8,PNG
+Paraguay,223,PRY
+Peru,21648,PER
+Philippines,7294,PHL
+Poland,11273,POL
+Portugal,23392,PRT
+Puerto Rico,0,PRI
+Qatar,9358,QAT
+Romania,10635,ROU
+Russia,74588,RUS
+Rwanda,176,RWA
+Saint Kitts and Nevis,15,KNA
+Saint Lucia,15,LCA
+Saint Martin,38,MAF
+Saint Pierre and Miquelon,1,SPM
+Saint Vincent and the Grenadines,0,VCT
+Samoa,0,WSM
+San Marino,513,SMR
+Sao Tome and Principe,4,STP
+Saudi Arabia,16299,SAU
+Senegal,614,SEN
+Serbia,7779,SRB
+Seychelles,11,SYC
+Sierra Leone,82,SLE
+Singapore,11963,SGP
+Sint Maarten,73,SXM
+Slovakia,1373,SVK
+Slovenia,1388,SVN
+Solomon Islands,0,SLB
+Somalia,390,SOM
+South Africa,4220,ZAF
+South Sudan,5,SSD
+Spain,223759,ESP
+Sri Lanka,452,LKA
+Sudan,213,SDN
+Suriname,10,SUR
+Swaziland,0,SWZ
+Sweden,18177,SWE
+Switzerland,28894,CHE
+Syria,42,SYR
+Taiwan,429,TWN
+Tajikistan,0,TJK
+Tanzania,299,TZA
+Thailand,2907,THA
+Timor-Leste,24,TLS
+Togo,96,TGO
+Tonga,0,TON
+Trinidad and Tobago,115,TTO
+Tunisia,922,TUN
+Turkey,107773,TUR
+Turkmenistan,0,TKM
+Tuvalu,0,TUV
+Uganda,75,UGA
+Ukraine,8125,UKR
+United Arab Emirates,9813,ARE
+United Kingdom,148377,GBR
+United States,945249,USA
+Uruguay,563,URY
+Uzbekistan,1836,UZB
+Vanuatu,0,VUT
+Venezuela,318,VEN
+Vietnam,270,VNM
+Virgin Islands,0,VGB
+West Bank,0,WBG
+Yemen,1,YEM
+Zambia,84,ZMB
+Zimbabwe,29,ZWE
